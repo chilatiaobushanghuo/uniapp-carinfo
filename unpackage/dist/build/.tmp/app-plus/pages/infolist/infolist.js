@@ -1,0 +1,1 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["pages/infolist/infolist"],{2172:function(e,o,n){"use strict";n("926e");var a=l(n("b0ce")),t=l(n("a422"));function l(e){return e&&e.__esModule?e:{default:e}}Page((0,a.default)(t.default))}},[["2172","common/runtime","common/vendor"]]]);

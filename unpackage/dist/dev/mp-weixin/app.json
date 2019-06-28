@@ -1,0 +1,23 @@
+{
+  "pages": [
+    "pages/welcome/welcome",
+    "pages/index/comp",
+    "pages/new/new",
+    "pages/hot/hot",
+    "pages/detail/detail",
+    "pages/login/login",
+    "pages/infolist/infolist",
+    "pages/publish/publish",
+    "pages/goods/gooddetail"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "",
+    "navigationBarBackgroundColor": "#FF80AB",
+    "backgroundColor": "#EFEFEF",
+    "navigationStyle": "custom"
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}

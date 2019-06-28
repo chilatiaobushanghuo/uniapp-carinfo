@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"welcome-root { width: 100%; }\n.",[1],"welcome-root .",[1],"swiper-item .",[1],"endbtn { position: absolute; bottom: ",[0,100],"; width: ",[0,200],"; left: 0; right: 0; margin-left: auto; margin-right: auto; }\n",],undefined,{path:"./pages/welcome/welcome.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/welcome/welcome.wxml') } }));

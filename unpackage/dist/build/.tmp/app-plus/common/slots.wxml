@@ -1,0 +1,16 @@
+<import src="/colorui/components/cu-custom.vue.wxml" />
+<import src="/pages/goods/index.vue.wxml" />
+<import src="/pages/infolist/infolist.vue.wxml" />
+<import src="/pages/publish/publish.vue.wxml" />
+<import src="/common/slots.wxml" />
+<import src="/pages/goods/goods.vue.wxml" />
+<import src="/pages/goods/goodslist.vue.wxml" />
+
+<template name="M504c4381-default-504c4381-0"></template>
+
+<template name="M504c4381-content-504c4381-0">{{ title }}</template>
+
+<template name="M44c53588-default-44c53588-0"></template>
+
+<template name="M44c53588-content-44c53588-0">{{ title }}</template>
+

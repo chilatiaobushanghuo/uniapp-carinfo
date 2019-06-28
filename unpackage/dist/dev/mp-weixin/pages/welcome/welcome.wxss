@@ -1,0 +1,13 @@
+.welcome-root {
+  width: 100%;
+}
+.welcome-root .swiper-item .endbtn {
+  position: absolute;
+  bottom: 100rpx;
+  width: 200rpx;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
